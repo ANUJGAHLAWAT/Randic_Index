@@ -3,4 +3,4 @@ To calculate Randic Index from Smiles Notation in c++ language for cyclic as wel
 Randic Index is also topological index or connectivity index of a nonhydrogen atoms in a molecule.  
 It is used as a descriptor for molecules in QSAR studies and for machine learning program In this program, I had calculated it by reading
 Smiles notation with conditions like if it gets bracket then it has to do these things. Likewise, I have calculated the Wiener index for
-the acyclic compound.
+the acyclic as well as cyclic compounds.
